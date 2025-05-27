@@ -1,4 +1,5 @@
-🎮 **Tic-Tac-Toe Game**
+🎮 **Tic-Tac-Toe Game:**
+
 A simple and interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play against a friend in the browser — responsive, fast, and fun!
 
 🌐 **Live Demo:** https://tic-tac-toe-forid.netlify.app
