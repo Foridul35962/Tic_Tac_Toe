@@ -6,6 +6,9 @@ body{
     background-color: #E3EEB2;
     text-align: center;
 }
+h1{
+    font-size: 3rem;
+}
 .continer{
     height: 70vh;
     display: flex;
